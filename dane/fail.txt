@@ -1,0 +1,38 @@
+1 1
+r:ri;i;i;i;i;iiii:i:;;v77i;ii:::iiiii:iiiiiiiiiiiiiiiiiiiiiiiiiiiir:
+i:iriiiiiiiiiiii:irvLLL7i;ii:rv7:;:irii::iiiiiiiiiiiiiiiiiiiiiiiiii:
+r:;iii;iiiiiii::7vJu2vv7rr7;7rririv77r7rr:iii:i:i:i:i:iiiiiii:iiiii:
+i:iiiiiiiiii::iLYYj5LvvL7vvuJJJuL77JLL7r7r:i:i:i:i:iiiiiiiiiiiii:ii:
+i:riiiiiiiii::uJYYFuL7LLu1FYJvv7LrLYuUY7rvr:i:iii:iiiiiiiii:i:iiiii:
+i:iiiiiiiiii:uJYLu2J7JYUFu77vjYLJjUS7LLjr7L::i:i:iii:iii:iii:iiiiii:
+r:;iiiiiiii:L5JLUUJLuu1SuL2SE8MMB@@MN11J;7XL::i:i:i:iiiii:iii:i:i:i:
+;:iiiiiiii:;SuYjuULu51PkkMB@B@MOZS2M@MEkJv1F:::i:i:i:i:i:iii:iii:ii:
+i:iiiiiii::u5u5UuuuSFqMO@OZSFuY7v77LZB@OOkXEi:i:iii:i:iii:iiiiiiiii:
+i:iiiiii::iXj552jY2ESBBMX521UUJJLvrvv2O@B@GOi,:i:iiiii:i:i:i:i:iiii:
+;:iiiii:i,YFF1122UNXOB055U1uUuU7ii2JJvv2B@GM7,::i:iii:i:i:iii:i:iii:
+i:iiiiii:iPq55u1SENOBMF2JJj2L7irY5kurrvrZ@8B7,:i:i:i:i:iiiii:i:iiii:
+;:iiiii:,YOS1u5kk0NB@0GPXPXLL;r1OZjii7YiEBBMv.iii:i:i:i:iii:i:i:iii:
+i:iiii:,;Zk51FFSkZ1qqFO@Mk7YSNB@87::1Pii0@OMv,:iii:i:i:i:i:i:i:iiii:
+;:iii::iqPFFS5XFMkvuE5SSL75XMB@PLirqMY7L@OOOv.::i:i:i:i:i:i:i:i:i:i,
+i:ii:::E0X1FkPPMMvrvFu7rrF0@BZ77j0MMr75MOEZBL.:i:i:i:i:i:i:::iii:ii:
+r:i:::XOk151XEOO1vL7vY5SqSuuYruqBBPrvJUMMNZMu.::i:i:i:i:i:i:i:i:i:i:
+:::::q8N2uuqGZENJ22FFF2Ek2j7;ukONu2OPLqBOZ8@7,:i:i:i:i:i:i:i:i:i:ii:
+  .LEPS12POGZ0GFYu115jFu1FkSP1LvuP8MYiBGOEOB:,i:i:i:i:i:i:i:i:i:i:i,
+ iqZ5kSFqGqG0ZMSLuYJLU125PqOGqYLNMPY:7BO8MMq.::i:i:i:i:i:i:::i:i:ii:
+MOE5kEF2SqO0EOB1JuU1SqX51SP2FqMq1jjJqOOZOBM:,:i:i:i:::i:i:i:i:i:i:i,
+N5550q1q0GE00OB0J25F5S1P0EXXX0X5YkkOMM8O8@L.:::i:i:i:i:::i:::i:i:i::
+P2qN0FXFS8ZMBB@GLJ15PFPXEqqXN08G8FkBONZ8O2.:::i:::i:i:::::::i:i:i:i,
+M@BBqukUPG0BB@MLrj1PFN0Eqqq0NEqP2FMMOGNON,.::i:i:::::i:::::i:i:::i:,
+5SO811FUqXZMGFrrvLu2Nq0GG0ZZOFL75M@qM0POF.::i:i:::::::::::i:i:i:i:i,
+JLuSP0JFq0G2ir7YvvvYuF0G08ZGGELuBMM808NM7.:i:::i:::::i:::i:i:i::::i,
+jv1UGNFXONJ;7vLvJvvvLYv5@8GZZ0OBBG0GGPMX.,::::i:::i:i:::i:::i:::::i,
+YvJuuXSq277YvvYuYLvLvL7BBMO8PEB@M0EkNMN7.::::::::i:::i:::::i:i:::i::
+uvu22FPuLLLvY7LvvjJvL7vX@MOPq0OO@Zk0uNBii:::i:i:i:::i:::i:i:i:i:::i,
+UJu5US1jJ21S2uLv7LLuLL7qBOPqqG5SMMP5Gk2ir7;::::i:i:::::::::i:i:::i::
+uJ2u5L77v7r7LuPSu777uYU0MPFPO1JuXEE5uFvivvL;::i:::::i:i:i:i:i:i:::i,
+YLuULLL7vjL7r77JFN2777UNkkF81YvYYEZkJJLr;vvYr::::::::::i:i:::i:::::,
+1jUvvjurvu2J7rvvvvkZU7uLkPO5LLjLLLS0SLuFirvYL:::i:::::i:i:::::i:::i,
+Fv7L7LuvrLj1LrrYLvrUBMNLvOPY7LLv7vuZN17ZJrvvvv:::i:i:i:::::i:::i:ii:
+Yi7vv7UUv7YuFurrJLYuOSqEjuuvLYu1F2uU0P12M;v77ui:i:i:::::i:i:i:::::i,
+7rLYLuu1u77JuXUr7JL5UjLukk7vj2uJ7Lv7v1quM2rY7Yr::i:i:i:i:i:i:i:iii::
+JrvLuuuY5U77u1qL7J151uJY5Sv2jr777LJ77vUrXOr7LLY:::iii:i:i:i:iii:iii,
